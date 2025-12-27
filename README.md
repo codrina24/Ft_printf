@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by coholbur*
+*This project has been created as part of the 42 curriculum by coholbur*.
 
 # Ft_printf
 Simulates the behavior of the standard printf() function
