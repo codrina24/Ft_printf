@@ -30,6 +30,21 @@ To compile the library, run:
 ```bash
 make
 ```
+
+## Library Functions Overview
+
+### Main function
+
+- ft_printf
+
+### Conversion functions
+
+- ft_printf_char, ft_printf_str, ft_printf_nbr, ft_printf_unsigned, ft_printf_hex, ft_printf_ptr
+
+### Parsing and validation
+
+- ft_verify
+  
 ## Resources
 
 - **Peer-to-peer learning** – was the most valuable resource; this project was developed with guidance and collaboration from other 42 students
@@ -46,16 +61,3 @@ AI tools were used to help:
 
 No AI was used to write the functions directly; all code logic and implementation are my own work and personal vision.
 
-## Library Functions Overview
-
-### Main function
-
-- ft_printf
-
-### Conversion functions
-
-- ft_printf_char, ft_printf_str, ft_printf_nbr, ft_printf_unsigned, ft_printf_hex, ft_printf_ptr
-
-### Parsing and validation
-
-- ft_verify
