@@ -19,18 +19,6 @@ The objective is to understand how printf() works, when it is used, and how it h
 
 The library is compiled as a static library (`libftprintf.a`) that can be linked to other projects.
 
-## Instructions
-
-The project includes a `Makefile` with the following targets:  
-- `all` : Compiles the library.  
-- `clean` : Removes object files.  
-- `fclean` : Removes object files and the library.  
-- `re` : Recompiles the library from scratch.
-To compile the library, run:
-```bash
-make
-```
-
 ## Library Functions Overview
 
 ### Main function
@@ -43,8 +31,20 @@ make
 
 ### Parsing and validation
 
-- ft_verify
-  
+- ft_verify 
+
+## Instructions
+
+The project includes a `Makefile` with the following targets:  
+- `all` : Compiles the library.  
+- `clean` : Removes object files.  
+- `fclean` : Removes object files and the library.  
+- `re` : Recompiles the library from scratch.
+To compile the library, run:
+```bash
+make
+```
+ 
 ## Resources
 
 - **Peer-to-peer learning** – was the most valuable resource; this project was developed with guidance and collaboration from other 42 students
